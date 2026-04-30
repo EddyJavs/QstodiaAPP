@@ -1,0 +1,161 @@
+# Política de Privacidad de QBalance
+
+**Última actualización:** 29/04/2026
+
+---
+
+## 1. Introducción
+
+QBalance es una aplicación de gestión de finanzas personales diseñada para ayudar a los usuarios a registrar, organizar y analizar sus ingresos, gastos, presupuestos y movimientos financieros.
+
+La privacidad de nuestros usuarios es una prioridad. Esta política describe cómo se recopila, utiliza y protege la información dentro de la aplicación.
+
+---
+
+## 2. Información que recopilamos
+
+### 2.1 Información ingresada por el usuario
+
+QBalance permite al usuario registrar información como:
+
+- Cuentas financieras
+- Ingresos y gastos
+- Presupuestos
+- Movimientos financieros
+- Préstamos entre usuarios
+- Categorías personalizadas
+
+Toda esta información es ingresada voluntariamente por el usuario.
+
+---
+
+### 2.2 Almacenamiento local
+
+Actualmente, QBalance almacena la información **localmente en el dispositivo del usuario** mediante una base de datos SQLite.
+
+Esto significa que:
+
+- Los datos no se envían automáticamente a servidores externos.
+- El usuario tiene control total sobre su información.
+- Si la aplicación se elimina, los datos pueden perderse si no se exportan previamente.
+
+---
+
+### 2.3 Importación y exportación de datos
+
+La aplicación permite:
+
+- Importar datos desde archivos JSON
+- Exportar datos a archivos JSON
+
+Estos archivos son gestionados directamente por el usuario y no son enviados a ningún servidor por la aplicación.
+
+---
+
+## 3. Futuras funcionalidades (nube y autenticación)
+
+En versiones futuras, QBalance podrá incluir:
+
+- Inicio de sesión (Google, Facebook u otros proveedores)
+- Sincronización de datos en la nube (por ejemplo, mediante Firebase)
+
+Cuando estas funciones estén disponibles:
+
+- Los datos podrán almacenarse en servidores seguros asociados a la cuenta del usuario
+- Se utilizará el identificador del usuario para separar y proteger la información
+- Se aplicarán medidas de seguridad para evitar accesos no autorizados
+
+Esta política será actualizada cuando dichas funcionalidades estén activas.
+
+---
+
+## 4. Suscripciones y pagos
+
+QBalance podrá ofrecer funciones premium mediante suscripciones.
+
+Para gestionar estas suscripciones, se podrá utilizar un proveedor externo como RevenueCat, el cual puede recopilar:
+
+- Estado de la suscripción
+- Identificadores anónimos del usuario
+- Información relacionada con compras dentro de la aplicación
+
+QBalance no almacena directamente datos financieros sensibles como números de tarjeta.
+
+---
+
+## 5. Publicidad
+
+La versión gratuita de QBalance puede mostrar anuncios mediante plataformas de terceros (por ejemplo, Google AdMob).
+
+Estas plataformas pueden recopilar información como:
+
+- Identificadores del dispositivo
+- Datos de uso de la aplicación
+- Interacciones con anuncios
+
+Esto se utiliza únicamente para mostrar publicidad relevante.
+
+Los usuarios con suscripción premium pueden no ver anuncios.
+
+---
+
+## 6. Permisos del dispositivo
+
+QBalance puede solicitar ciertos permisos del dispositivo para ofrecer sus funcionalidades:
+
+- **Almacenamiento:** para importar y exportar archivos JSON.
+- **Internet:** para sincronización de datos y uso de servicios en la nube.
+- **Micrófono:** para permitir al usuario interactuar con el asistente mediante comandos de voz.  
+  El audio capturado se utiliza únicamente para convertir la voz en texto y procesar las instrucciones dentro de la aplicación.  
+  QBalance no almacena grabaciones de audio de forma permanente. En caso de utilizar servicios de terceros para el reconocimiento de voz, estos pueden procesar temporalmente el audio conforme a sus propias políticas de privacidad.
+
+Todos los permisos solicitados están directamente relacionados con funcionalidades específicas de la aplicación y se solicitan únicamente cuando son necesarios.
+
+---
+
+## 7. Seguridad de la información
+
+Se implementan medidas razonables para proteger la información del usuario, incluyendo:
+
+- Almacenamiento local seguro
+- Uso de servicios confiables para autenticación y almacenamiento en la nube (cuando aplique)
+
+Sin embargo, ningún sistema es completamente seguro, por lo que no se puede garantizar seguridad absoluta.
+
+---
+
+## 8. Control del usuario sobre sus datos
+
+El usuario tiene control total sobre su información y puede:
+
+- Modificar o eliminar datos dentro de la aplicación
+- Exportar su información en cualquier momento
+- Eliminar la aplicación para borrar los datos almacenados localmente
+
+En futuras versiones con cuentas, también podrá gestionar o eliminar su información desde la nube.
+
+---
+
+## 9. Uso por menores de edad
+
+QBalance no está dirigida específicamente a menores de edad, pero puede ser utilizada bajo supervisión.
+
+No se recopila intencionalmente información personal de menores.
+
+---
+
+## 10. Cambios a esta política
+
+Esta política puede actualizarse en el futuro para reflejar cambios en la aplicación o en requisitos legales.
+
+Se recomienda revisar esta sección periódicamente.
+
+---
+
+## 11. Contacto
+
+Si tienes dudas sobre esta política de privacidad, puedes contactarnos en:
+
+**Email:** [tu correo aquí]
+
+---
